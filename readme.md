@@ -20,6 +20,7 @@ Github: https://github.com/ilia-21/gradient-pack
 Discord: ilia21#8974 
 
 Discord Сервер: https://discord.gg/EAbvCGC
+
 -----------------------------------------------------
 EN:
 
